@@ -1,0 +1,46 @@
+ .u-section-1 {
+  background-image: url("images/zzlogo1.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 459px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1.5rem;
+  margin: 174px auto 60px 361px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 161px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 290px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 218px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 137px;
+  }
+}
